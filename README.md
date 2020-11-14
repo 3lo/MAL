@@ -1,6 +1,7 @@
 # MAL
 
 ## TO DO:
+- [ ] Authenticate oauth with API
 - [ ] Scrape information from myanimelist /watching/ /completed/ anime
 - [ ] Information to grab: Watch time, Genere, Episode Count, Historical Updates
 - [ ] Learn Jupyter, numpy, pandas, matplot
